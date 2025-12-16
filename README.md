@@ -1,5 +1,5 @@
-# learning-bicep
-Learning Bicep
+learning-bicep
+# Learning Bicep
 
 ```
 learning-bicep/
